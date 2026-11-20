@@ -1,0 +1,4 @@
+[1:1000001:1] "CUSTOM - ICMP Ping Detected"
+[1:1000003:1] "CUSTOM - TCP Scan Detected" 10.0.2.15 -> 8.8.8.8
+Snort successfully validated the configuration (with 0 warnings).
+Commencing packet processing - Snort detected ping and nmap -sS scan.
